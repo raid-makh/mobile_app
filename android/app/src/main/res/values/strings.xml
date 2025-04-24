@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UnivDZ</string>
+
+    <!-- Replace these with your actual Facebook App ID and Client Token -->
+    <string name="facebook_app_id">1185598489687051</string>
+    <string name="facebook_client_token">448028977a5ab6c6d96074211ae8e434</string>
+
+    <!-- This should be fb + your App ID -->
+    <string name="fb_login_protocol_scheme">fb1185598489687051</string>
+</resources>
